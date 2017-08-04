@@ -13,7 +13,7 @@
 
 ## Course description ##
 
-This course is designed to introduce PhD students to software applications and computational techniques to make them productive researchers. Students will be exposed to leading open source software pack- ages (Python, Julia, R) and techniques for numerical computing and data analysis. The course will be taught through the application of these software packages and methods to economic research in applied microeconomics and macroeconomics.
+This course is designed to introduce PhD students to software applications and computational techniques to make them productive researchers. Students will be exposed to leading open source software pack-ages (Python, R, Julia) and techniques for numerical computing and data analysis. The course will be taught through the application of these software packages and methods to economic research in applied microeconomics and macroeconomics.
 
 
 ## Course Objectives and Learning Outcomes ##
@@ -81,12 +81,12 @@ Class Participation                |   10   |    10.0%   |
 | Oct. 12  | Th  | Econometrics in Python and R           |        |
 | Oct. 17  | T   | Econometrics in Python and R           |        |
 | Oct. 19  | Th  | No class, Fall Break                   |        |
-| Oct. 24  | T   | Webscraping/APIs to gather data        |        |
-| Oct. 26  | Th  | Webscraping/APIs to gather data        | PS #6  |
-| Oct. 31  | T   | Webscraping/APIs to gather data        |        |
-| Nov. 2   | Th  | Webscraping/APIs to gather data        |        |
+| Oct. 24  | T   | Web scraping/APIs to gather data       |        |
+| Oct. 26  | Th  | Web scraping/APIs to gather data       | PS #6  |
+| Oct. 31  | T   | Web scraping/APIs to gather data       |        |
+| Nov. 2   | Th  | Web scraping/APIs to gather data       |        |
 | Nov. 7   | T   | Dynamic Programming and intro to Julia |        |
-| Nov. 9   | Th  | Professor DeBacker out of town         |        |
+| Nov. 9   | Th  | TBD                                    |        |
 | Nov. 14  | T   | Dynamic Programming and intro to Julia | PS #7  |
 | Nov. 16  | Th  | Dynamic Programming and intro to Julia |        |
 | Nov. 21  | T   | Dynamic Programming and intro to Julia |        |
