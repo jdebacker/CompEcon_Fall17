@@ -103,7 +103,6 @@ We will be using the [Python](https://www.python.org/) programming language and 
 I recommend that you download the Anaconda distribution of Python provided by [Continuum Analytics](https://www.continuum.io/). I recommend the most recent stable version of Python, which is currently Python 3.6. This can be done from the [Anaconda download page](https://www.continuum.io/downloads) for Windows, Mac OSX, and Linux machines. The code we will be writing uses common Python libraries such as `NumPy`, `SciPy`, `pickle`, `os`, `matplotlib`, and `time`.
 
 
-
 ## 6. PEP 8, docstring commenting, and module structure
 
 Computer code executes some set of commands in an organized way. In every case, there are often many ways to execute a set of instructions--some ways more efficient than others. However, code has at least three functions.
@@ -128,3 +127,15 @@ Because of the latter two characteristics, Python code has developed some conven
 * Use a space before and after arithmetic operators
 
 In the text editors Atom and Sublime Text 3 you can install Linter packages that highlight areas of your code that break PEP 8 rules and tell you what the violation is.
+
+
+## 7. Useful Links
+
+* [Code and Data for the Social Sciences](http://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
+* [LaTeX math symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)
+* [Typesetting equations in TeX](http://moser-isi.ethz.ch/docs/typeset_equations.pdf)
+* [Pimp my Editor](http://slides.com/nicklang/pimp-my-editor#/) (Sublime Text focused, but may similar plug-ins/features available in Atom)
+* [Unix commands](https://en.wikipedia.org/wiki/List_of_Unix_commands)
+* [DOS commands](https://en.wikipedia.org/wiki/List_of_DOS_commands)
+* [Git Basics](https://www.youtube.com/watch?v=U8GBXvdmHT4)
+* [Research Cyberinfrastructure at USC](http://www.sc.edu/about/offices_and_divisions/division_of_information_technology/rci/)
