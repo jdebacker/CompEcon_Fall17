@@ -1,3 +1,6 @@
+## Intro to Python
+This module of the course introduces you to the basics of programming in Python, with the focus on those features more relevant to data analysis and scientific computing, areas most likely to be utilized in economic research.
+
 
 ## 1. Jupyter Notebook tutorials to get you started
 * [Numpy and Pandas](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Python/PythonNumpyPandas.ipynb)
@@ -6,8 +9,12 @@
 * [Reshaping Data](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Python/PythonReshape.ipynb)
 * [Writing Functions in Python](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Python/PythonFuncs.ipynb)
 
-## 2. Useful Links
+## 2. Notebooks we worked through in class
+* [Python Basics](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Python/PythonBasics.ipynb)
+* [Read and Writing Data, Writing Functions](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Python/DataFunctions.ipynb)
+
+## 3. Useful Links
 
 * [Pandas Techniques](https://medium.com/@sean.turner026/week-2-and-useful-pandas-techniques-2f5dd78a5a59)
-* [Builtin Superheros](https://www.youtube.com/watch?v=j6VSAsKAj98&feature=youtu.be)
+* [Builtin Superheros](https://youtu.be/j6VSAsKAj98)
 * [Pandas guides](http://tomaugspurger.github.io/archives.html)
