@@ -1,3 +1,6 @@
+## Intro to Python
+This module of the course introduces you to the basics of programming in Python, with the focus on those features more relevant to data analysis and scientific computing, areas most likely to be utilized in economic research.
+
 
 ## 1. Jupyter Notebook tutorials to get you started
 * [Numpy and Pandas](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Python/PythonNumpyPandas.ipynb)
