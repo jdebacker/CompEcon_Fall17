@@ -102,6 +102,7 @@ Class Participation                |   10   |    10.0%   |
 ## Helpful Links ##
 
 * [QuantEcon](https://quantecon.org)
+* [Notes on Machine Learning & Artificial Intelligence] (https://chrisalbon.com) by Chris Albon
 
 
 ## Reasonable Accommodations for Students with Disabilities: ##
