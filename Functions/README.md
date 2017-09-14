@@ -1,6 +1,16 @@
 ## Optimization and functions in Python
 This module of the course covers numerical optimization methods and applies them to problems in Python using the SciPy Package.
 
+## Tutorials to get you started
+
+* [Writing Functions in Python](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Functions/PythonFuncs.ipynb)
+* [Rootfinders and Minimizers in Python](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Functions/PythonRootMin.ipynb)
+
+## Notebooks we worked through in class
+
+* [Optimization](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Functions/Optimization.ipynb)
+* [Estimating and error components model via GMM](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Functions/ECM_Estimation.ipynb)
+
 ## Useful Links
 
 * [Bisection Method vs. Golden Rule Search](https://chemicalstatistician.wordpress.com/2013/04/22/using-the-bisection-method-with-the-golden-ratio-for-numerical-optimization/)
