@@ -64,16 +64,16 @@ Class Participation                |   10   |    10.0%   |
 
 | Date     | Day | Topic                                  | Due    |
 |----------|-----|----------------------------------------|--------|
-| Aug. 24  | Th  | Work Flow, Productivity Software       |        |
-| Aug. 29  | T   | Work Flow, Productivity Software       |        |
-| Aug. 31  | Th  | Python/OOP                             | PS #1  |
-| Sept. 5  | T   | Python/OOP                             |        |
-| Sept. 7  | Th  | Functions, Optimizers, Root-Finders    |        |
-| Sept. 12 | T   | Functions, Optimizers, Root-Finders    | PS #2  |
-| Sept. 14 | Th  | Functions, Optimizers, Root-Finders    |        |
-| Sept. 19 | T   | Functions, Optimizers, Root-Finders    |        |
-| Sept. 21 | Th  | Conditionals/Loops                     |        |
-| Sept. 26 | T   | Conditionals/Loops                     | PS #3  |
+| Aug. 24  | Th  | [Work Flow, Productivity Software](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Productivity)       |        |
+| Aug. 29  | T   | [Work Flow, Productivity Software](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Productivity)         |        |
+| Aug. 31  | Th  | [Python/OOP](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Python)                             | PS #1  |
+| Sept. 5  | T   | [Python/OOP](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Python)                             |        |
+| Sept. 7  | Th  | [Functions, Optimizers, Root-Finders](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Functions)    |        |
+| Sept. 12 | T   | [Functions, Optimizers, Root-Finders](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Functions)     | PS #2  |
+| Sept. 14 | Th  | [Functions, Optimizers, Root-Finders](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Functions)      |        |
+| Sept. 19 | T   | [Functions, Optimizers, Root-Finders](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Functions)      |        |
+| Sept. 21 | Th  | [Conditionals/Loops](https://github.com/jdebacker/CompEcon_Fall17/tree/master/LoopConditional)                     |        |
+| Sept. 26 | T   | [Conditionals/Loops](https://github.com/jdebacker/CompEcon_Fall17/tree/master/LoopConditional)                     | PS #3  |
 | Sept. 28 | Th  | Visualization                          |        |
 | Oct. 3   | T   | Visualization                          | PS #4  |
 | Oct. 5   | Th  | Econometrics in Python and R           |        |
