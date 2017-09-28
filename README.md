@@ -25,7 +25,7 @@ This course is designed to introduce PhD students to software applications and c
 	* R
 	* Julia
 * You will learn to write your own estimators and use packages written by others for:
-	* Error-components models
+	* Geneneralize Method of Moments Estimators
 	* Maximum likelihood estimators
 	* Maximum score estimators
 	* Reduced form estimators such as regression discontinuity design
@@ -66,24 +66,24 @@ Class Participation                |   10   |    10.0%   |
 |----------|-----|----------------------------------------|--------|
 | Aug. 24  | Th  | [Work Flow, Productivity Software](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Productivity)       |        |
 | Aug. 29  | T   | [Work Flow, Productivity Software](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Productivity)         |        |
-| Aug. 31  | Th  | [Python/OOP](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Python)                             | PS #1  |
+| Aug. 31  | Th  | [Python/OOP](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Python)                             | [PS #1](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Productivity/PS1.pdf)  |
 | Sept. 5  | T   | [Python/OOP](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Python)                             |        |
 | Sept. 7  | Th  | [Functions, Optimizers, Root-Finders](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Functions)    |        |
-| Sept. 12 | T   | [Functions, Optimizers, Root-Finders](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Functions)     | PS #2  |
+| Sept. 12 | T   | [Functions, Optimizers, Root-Finders](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Functions)     | [PS #2](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Python/PS2.pdf)  |
 | Sept. 14 | Th  | [Functions, Optimizers, Root-Finders](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Functions)      |        |
 | Sept. 19 | T   | [Functions, Optimizers, Root-Finders](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Functions)      |        |
 | Sept. 21 | Th  | [Conditionals/Loops](https://github.com/jdebacker/CompEcon_Fall17/tree/master/LoopConditional)                     |        |
-| Sept. 26 | T   | [Conditionals/Loops](https://github.com/jdebacker/CompEcon_Fall17/tree/master/LoopConditional)                     | PS #3  |
-| Sept. 28 | Th  | Visualization                          |        |
-| Oct. 3   | T   | Visualization                          | PS #4  |
-| Oct. 5   | Th  | Econometrics in Python and R           |        |
-| Oct. 10  | T   | Econometrics in Python and R           | PS #5  |
-| Oct. 12  | Th  | Econometrics in Python and R           |        |
-| Oct. 17  | T   | Econometrics in Python and R           |        |
+| Sept. 26 | T   | [Conditionals/Loops](https://github.com/jdebacker/CompEcon_Fall17/tree/master/LoopConditional)                     | [PS #3](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Functions/PS3.pdf)  |
+| Sept. 28 | T   | [Conditionals/Loops](https://github.com/jdebacker/CompEcon_Fall17/tree/master/LoopConditional)                     | |
+| Oct. 3   | T   | [Visualization]((https://github.com/jdebacker/CompEcon_Fall17/tree/master/Visualization) )                          |   |
+| Oct. 5   | T   | [Visualization]((https://github.com/jdebacker/CompEcon_Fall17/tree/master/Visualization)                          |   |
+| Oct. 10   | Th  | Econometrics in Python and R           |        |
+| Oct. 12  | T   | Econometrics in Python and R           | [PS #4](https://github.com/jdebacker/CompEcon_Fall17/blob/master/LoopConditional/PS4.pdf)  |
+| Oct. 17  | Th  | Econometrics in Python and R           |        |
 | Oct. 19  | Th  | No class, Fall Break                   |        |
-| Oct. 24  | T   | Web scraping/APIs to gather data       |        |
-| Oct. 26  | Th  | Web scraping/APIs to gather data       | PS #6  |
-| Oct. 31  | T   | Web scraping/APIs to gather data       |        |
+| Oct. 24  | T   | Web scraping/APIs to gather data       | PS #5       |
+| Oct. 26  | Th  | Web scraping/APIs to gather data       |   |
+| Oct. 31  | T   | Web scraping/APIs to gather data       | PS #6     |
 | Nov. 2   | Th  | Web scraping/APIs to gather data       |        |
 | Nov. 7   | T   | Dynamic Programming and intro to Julia |        |
 | Nov. 9   | Th  | TBD                                    |        |
