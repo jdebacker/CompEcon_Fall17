@@ -75,8 +75,8 @@ Class Participation                |   10   |    10.0%   |
 | Sept. 21 | Th  | [Conditionals/Loops](https://github.com/jdebacker/CompEcon_Fall17/tree/master/LoopConditional)                     |        |
 | Sept. 26 | T   | [Conditionals/Loops](https://github.com/jdebacker/CompEcon_Fall17/tree/master/LoopConditional)                     | [PS #3](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Functions/PS3.pdf)  |
 | Sept. 28 | T   | [Conditionals/Loops](https://github.com/jdebacker/CompEcon_Fall17/tree/master/LoopConditional)                     | |
-| Oct. 3   | T   | [Visualization]((https://github.com/jdebacker/CompEcon_Fall17/tree/master/Visualization) )                          |   |
-| Oct. 5   | T   | [Visualization]((https://github.com/jdebacker/CompEcon_Fall17/tree/master/Visualization)                          |   |
+| Oct. 3   | T   | [Visualization](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Visualization)                          |   |
+| Oct. 5   | T   | [Visualization](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Visualization)                          |   |
 | Oct. 10   | Th  | Econometrics in Python and R           |        |
 | Oct. 12  | T   | Econometrics in Python and R           | [PS #4](https://github.com/jdebacker/CompEcon_Fall17/blob/master/LoopConditional/PS4.pdf)  |
 | Oct. 17  | Th  | Econometrics in Python and R           |        |
