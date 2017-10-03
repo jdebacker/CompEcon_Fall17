@@ -5,7 +5,7 @@ This module of the course covers non-structural econometric methods and how to a
 
 Do the following:
 1. [Install R from CRAN](https://cran.r-project.org)
-2. (If you want an popular IDE for R) [Intall RStudio](https://www.rstudio.com
+2. If you want an popular IDE for R, [intall RStudio](https://www.rstudio.com)
 3. With R installed, go to your command line and do the following to create an R kernal for Jupyter Notebooks:
     * `$ R` # to launch R
     * `install.packages(c('repr', 'IRdisplay', 'evaluate', 'crayon', 'pbdZMQ', 'devtools', 'uuid', 'digest'))`
