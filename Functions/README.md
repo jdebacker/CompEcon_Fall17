@@ -9,7 +9,7 @@ This module of the course covers numerical optimization methods and applies them
 ## Notebooks we worked through in class
 
 * [Optimization](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Functions/Optimization.ipynb)
-* [Estimating and error components model via GMM](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Functions/ECM_Estimation.ipynb)
+* [Estimating an error components model via GMM](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Functions/ECM_Estimation.ipynb)
 
 ## Useful Links
 
