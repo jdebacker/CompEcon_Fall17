@@ -77,9 +77,9 @@ Class Participation                |   10   |    10.0%   |
 | Sept. 28 | T   | [Conditionals/Loops](https://github.com/jdebacker/CompEcon_Fall17/tree/master/LoopConditional)                     | |
 | Oct. 3   | T   | [Visualization](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Visualization)                          |   |
 | Oct. 5   | T   | [Visualization](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Visualization)                          |   |
-| Oct. 10   | Th  | Econometrics in Python and R           |        |
-| Oct. 12  | T   | Econometrics in Python and R           | [PS #4](https://github.com/jdebacker/CompEcon_Fall17/blob/master/LoopConditional/PS4.pdf)  |
-| Oct. 17  | Th  | Econometrics in Python and R           |        |
+| Oct. 10   | Th  | [Econometrics in Python and R](https://github.com/jdebacker/CompEcon_Fall17/tree/master/R)           |        |
+| Oct. 12  | T   | [Econometrics in Python and R](https://github.com/jdebacker/CompEcon_Fall17/tree/master/R)           | [PS #4](https://github.com/jdebacker/CompEcon_Fall17/blob/master/LoopConditional/PS4.pdf)  |
+| Oct. 17  | Th  | [Econometrics in Python and R](https://github.com/jdebacker/CompEcon_Fall17/tree/master/R)           |        |
 | Oct. 19  | Th  | No class, Fall Break                   |        |
 | Oct. 24  | T   | Web scraping/APIs to gather data       | PS #5       |
 | Oct. 26  | Th  | Web scraping/APIs to gather data       |   |
