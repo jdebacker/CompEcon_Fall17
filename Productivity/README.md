@@ -138,4 +138,5 @@ In the text editors Atom and Sublime Text 3 you can install Linter packages that
 * [Unix commands](https://en.wikipedia.org/wiki/List_of_Unix_commands)
 * [DOS commands](https://en.wikipedia.org/wiki/List_of_DOS_commands)
 * [Git Basics](https://www.youtube.com/watch?v=U8GBXvdmHT4)
+* [Git Workflows](http://blog.endpoint.com/2014/05/git-workflows-that-work.html)
 * [Research Cyberinfrastructure at USC](http://www.sc.edu/about/offices_and_divisions/division_of_information_technology/rci/)
