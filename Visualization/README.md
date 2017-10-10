@@ -17,6 +17,7 @@ This module of the course covers data visualization tools.  We'll learn these to
 * [Matplotlib guide](http://pbpython.com/effective-matplotlib.html)
 * [Overview of Python visualization tools](http://pbpython.com/visualization-tools-1.html)
 * [A Dramatic Tour Through Python's Data Visualization Landscape](https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
+* [A Detailed Matplotlib Example](https://www.dataquest.io/blog/making-538-plots/)
 * [Matplotlib Gallery](https://matplotlib.org/gallery.html)
 * [Seaborn Gallery](https://seaborn.pydata.org/examples/index.html)
 * [Bokeh Gallery](https://bokeh.pydata.org/en/latest/docs/gallery.html)
