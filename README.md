@@ -13,7 +13,7 @@
 
 ## Course description ##
 
-This course is designed to introduce PhD students to software applications and computational techniques to make them productive researchers. Students will be exposed to leading open source software pack-ages (Python, R, Julia) and techniques for numerical computing and data analysis. The course will be taught through the application of these software packages and methods to economic research in applied microeconomics and macroeconomics.
+This course is designed to introduce PhD students to software applications and computational techniques to make them productive researchers. Students will be exposed to leading open source software packages (Python, R, Julia) and techniques for numerical computing and data analysis. The course will be taught through the application of these software packages and methods to economic research in applied microeconomics and macroeconomics.
 
 
 ## Course Objectives and Learning Outcomes ##
@@ -74,16 +74,16 @@ Class Participation                |   10   |    10.0%   |
 | Sept. 19 | T   | [Functions, Optimizers, Root-Finders](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Functions)      |        |
 | Sept. 21 | Th  | [Conditionals/Loops](https://github.com/jdebacker/CompEcon_Fall17/tree/master/LoopConditional)                     |        |
 | Sept. 26 | T   | [Conditionals/Loops](https://github.com/jdebacker/CompEcon_Fall17/tree/master/LoopConditional)                     | [PS #3](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Functions/PS3.pdf)  |
-| Sept. 28 | T   | [Conditionals/Loops](https://github.com/jdebacker/CompEcon_Fall17/tree/master/LoopConditional)                     | |
+| Sept. 28 | Th   | [Conditionals/Loops](https://github.com/jdebacker/CompEcon_Fall17/tree/master/LoopConditional)                     | |
 | Oct. 3   | T   | [Visualization](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Visualization)                          |   |
-| Oct. 5   | T   | [Visualization](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Visualization)                          |   |
-| Oct. 10   | Th  | [Econometrics in Python and R](https://github.com/jdebacker/CompEcon_Fall17/tree/master/R)           |        |
-| Oct. 12  | T   | [Econometrics in Python and R](https://github.com/jdebacker/CompEcon_Fall17/tree/master/R)           | [PS #4](https://github.com/jdebacker/CompEcon_Fall17/blob/master/LoopConditional/PS4.pdf)  |
-| Oct. 17  | Th  | [Econometrics in Python and R](https://github.com/jdebacker/CompEcon_Fall17/tree/master/R)           |        |
+| Oct. 5   | Th   | [Visualization](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Visualization)                          |   |
+| Oct. 10   | T  | [Econometrics in Python and R](https://github.com/jdebacker/CompEcon_Fall17/tree/master/R)           |        |
+| Oct. 12  | Th   | [Econometrics in Python and R](https://github.com/jdebacker/CompEcon_Fall17/tree/master/R)           | [PS #4](https://github.com/jdebacker/CompEcon_Fall17/blob/master/LoopConditional/PS4.pdf)  |
+| Oct. 17  | T  | [Econometrics in Python and R](https://github.com/jdebacker/CompEcon_Fall17/tree/master/R)           |        |
 | Oct. 19  | Th  | No class, Fall Break                   |        |
-| Oct. 24  | T   | Web scraping/APIs to gather data       | PS #5       |
+| Oct. 24  | T   | Web scraping/APIs to gather data       | [PS #5](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Visualization/PS5.pdf)       |
 | Oct. 26  | Th  | Web scraping/APIs to gather data       |   |
-| Oct. 31  | T   | Web scraping/APIs to gather data       | PS #6     |
+| Oct. 31  | T   | Web scraping/APIs to gather data       | [PS #6](https://github.com/jdebacker/CompEcon_Fall17/blob/master/R/PS6.pdf)     |
 | Nov. 2   | Th  | Web scraping/APIs to gather data       |        |
 | Nov. 7   | T   | Dynamic Programming and intro to Julia |        |
 | Nov. 9   | Th  | TBD                                    |        |
