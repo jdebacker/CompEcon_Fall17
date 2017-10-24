@@ -28,6 +28,11 @@ Additionally, if you like Atom and want to continue using it for writing R scrip
 * [Regression Discontinuity Design, using ggplot](https://github.com/jdebacker/CompEcon_Fall17/blob/master/R/R_RDD.ipynb)
 
 
+## RDD References
+
+* [Notes](http://jasondebacker.com/classes/Lecture7_Notes_RDD.pdf)
+* [Lee (2008)](https://www.princeton.edu/~davidlee/wp/RDrand.pdf)
+
 ## Useful Links
 
 * R
