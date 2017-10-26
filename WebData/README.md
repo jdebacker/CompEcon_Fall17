@@ -19,7 +19,7 @@ APIs:
 Web scraping:
 * [Lindo, Siminski, and Swensen (*AEJ: Applied*, forthcoming)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2731963)
 * [Chen (*AER*, 2013)](http://www.jstor.org/stable/pdf/23469680.pdf?refreqid=search:14f5152afbe9d837576f1d4604e76634)
-* 
+
 
 ## Useful Links
 
