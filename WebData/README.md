@@ -31,3 +31,4 @@ Web scraping:
 * [Web scraping with Beautiful Soup](http://web.stanford.edu/~zlotnick/TextAsData/Web_Scraping_with_Beautiful_Soup.html)
 * [OEC Data Wrapper for R](https://cran.r-project.org/web/packages/oec/oec.pdf)
 * [Web Scraping Tutorial in R](https://medium.com/towards-data-science/web-scraping-tutorial-in-r-5e71fd107f32)
+* [3 Python Web Scrapers and Crawlers](https://opensource.com/resources/python/web-scraper-crawler)
