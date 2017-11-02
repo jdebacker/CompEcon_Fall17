@@ -81,15 +81,15 @@ Class Participation                |   10   |    10.0%   |
 | Oct. 12  | Th   | [Econometrics in Python and R](https://github.com/jdebacker/CompEcon_Fall17/tree/master/R)           | [PS #4](https://github.com/jdebacker/CompEcon_Fall17/blob/master/LoopConditional/PS4.pdf)  |
 | Oct. 17  | T  | [Econometrics in Python and R](https://github.com/jdebacker/CompEcon_Fall17/tree/master/R)           |        |
 | Oct. 19  | Th  | No class, Fall Break                   |        |
-| Oct. 24  | T   | Web scraping/APIs to gather data       | [PS #5](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Visualization/PS5.pdf)       |
-| Oct. 26  | Th  | Web scraping/APIs to gather data       |   |
-| Oct. 31  | T   | Web scraping/APIs to gather data       | [PS #6](https://github.com/jdebacker/CompEcon_Fall17/blob/master/R/PS6.pdf)     |
-| Nov. 2   | Th  | Web scraping/APIs to gather data       |        |
-| Nov. 7   | T   | Dynamic Programming and intro to Julia |        |
+| Oct. 24  | T   | [Web scraping/APIs to gather data](https://github.com/jdebacker/CompEcon_Fall17/tree/master/WebData)       | [PS #5](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Visualization/PS5.pdf)       |
+| Oct. 26  | Th  | [Web scraping/APIs to gather data](https://github.com/jdebacker/CompEcon_Fall17/tree/master/WebData)       |   |
+| Oct. 31  | T   | [Web scraping/APIs to gather data](https://github.com/jdebacker/CompEcon_Fall17/tree/master/WebData)       | [PS #6](https://github.com/jdebacker/CompEcon_Fall17/blob/master/R/PS6.pdf)     |
+| Nov. 2   | Th  | [Dynamic Programming](https://github.com/jdebacker/CompEcon_Fall17/tree/master/DynamicProgramming)       |        |
+| Nov. 7   | T   | [Dynamic Programming](https://github.com/jdebacker/CompEcon_Fall17/tree/master/DynamicProgramming)  |        |
 | Nov. 9   | Th  | TBD                                    |        |
-| Nov. 14  | T   | Dynamic Programming and intro to Julia | PS #7  |
-| Nov. 16  | Th  | Dynamic Programming and intro to Julia |        |
-| Nov. 21  | T   | Dynamic Programming and intro to Julia |        |
+| Nov. 14  | T   | [Markov Chains](https://github.com/jdebacker/CompEcon_Fall17/tree/master/DynamicProgramming)  | [PS #7](https://github.com/jdebacker/CompEcon_Fall17/blob/master/WebData/PS7.pdf)  |
+| Nov. 16  | Th  | [Stationary Distributions](https://github.com/jdebacker/CompEcon_Fall17/tree/master/DynamicProgramming)  |        |
+| Nov. 21  | T   | [Solving GE Models](https://github.com/jdebacker/CompEcon_Fall17/tree/master/DynamicProgramming)  |        |
 | Nov. 23  | Th  | No class, Thanksgiving                 |        |
 | Nov. 28  | T   | Simulation Methods                     |        |
 | Nov. 30  | Th  | Simulation Methods                     | PS # 8 |
