@@ -2,6 +2,9 @@
 This module of the course illustrates computational methods to solve continous and discrete dynamic programming problems.  We'll do apply this computational tools to models of firm dynamics and corporate finance.
 
 ## Notebooks we worked through in class
+* [Basic VFI to solve deterministic firm problem](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/DeterministicFirmVFI.ipynb)
+* [VFI with interpolation to solve deterministic firm problem](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/FirmVFI_interpolation.ipynb)
+* [Approximating an AR(1) process](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/ApproxAR.ipynb)
 
 ## Lecture Notes
 * [The partial equilibrium problem of the firm](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/Intro_Slides.pdf)
