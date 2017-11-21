@@ -11,7 +11,7 @@ This module of the course illustrates computational methods to solve continous a
 ## Lecture Notes
 * [Intro slides](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/Intro_Slides.pdf)
 * [The partial equilibrium problem of the firm](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/Lecture1.pdf)
-* * [The general equilibrium problem of the firm](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/Lecture2.pdf)
+* [The general equilibrium problem of the firm](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/Lecture2.pdf)
 
 ## References
 * [Cooper and Ejarque (*Review of Economic Dyanmics*, 2003)](http://www.sciencedirect.com/science/article/pii/S1094202503000644?via%3Dihub)
@@ -26,3 +26,5 @@ This module of the course illustrates computational methods to solve continous a
 
 
 ## Useful Links
+* [Numba](http://numba.pydata.org)
+* [QuantEcon: Finite Markov Chains](https://lectures.quantecon.org/jl/finite_markov.html)
