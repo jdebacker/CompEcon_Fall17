@@ -92,7 +92,8 @@ Class Participation                |   10   |    10.0%   |
 | Nov. 21  | T   | [Solving GE Models](https://github.com/jdebacker/CompEcon_Fall17/tree/master/DynamicProgramming)  |        |
 | Nov. 23  | Th  | No class, Thanksgiving                 |        |
 | Nov. 28  | T   | Simulation Methods                     |        |
-| Nov. 30  | Th  | Simulation Methods                     | PS # 8 |
+| Nov. 30  | Th  | Simulation Methods                     | |
+| Dec. 4   | M  | No class meeting                     | [PS # 8](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/PS8.pdf) |
 | Dec. 5   | T   | Simulation Methods                     |        |
 | Dec. 7   | Th  | Simulation Methods                     |        |
 |          |     |                                        |        |

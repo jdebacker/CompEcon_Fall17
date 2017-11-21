@@ -5,9 +5,13 @@ This module of the course illustrates computational methods to solve continous a
 * [Basic VFI to solve deterministic firm problem](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/DeterministicFirmVFI.ipynb)
 * [VFI with interpolation to solve deterministic firm problem](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/FirmVFI_interpolation.ipynb)
 * [Approximating an AR(1) process](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/ApproxAR.ipynb)
+* [Solving for a stationary distribution](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/SolvingStationaryDistribution.ipynb)
+* [Using Numba for just in time compiling code](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/DPPwNumba.ipynb)
 
 ## Lecture Notes
-* [The partial equilibrium problem of the firm](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/Intro_Slides.pdf)
+* [Intro slides](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/Intro_Slides.pdf)
+* [The partial equilibrium problem of the firm](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/Lecture1.pdf)
+* [The general equilibrium problem of the firm](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/Lecture2.pdf)
 
 ## References
 * [Cooper and Ejarque (*Review of Economic Dyanmics*, 2003)](http://www.sciencedirect.com/science/article/pii/S1094202503000644?via%3Dihub)
@@ -22,3 +26,5 @@ This module of the course illustrates computational methods to solve continous a
 
 
 ## Useful Links
+* [Numba](http://numba.pydata.org)
+* [QuantEcon: Finite Markov Chains](https://lectures.quantecon.org/jl/finite_markov.html)
