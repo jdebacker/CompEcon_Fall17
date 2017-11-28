@@ -91,13 +91,13 @@ Class Participation                |   10   |    10.0%   |
 | Nov. 16  | Th  | [Stationary Distributions](https://github.com/jdebacker/CompEcon_Fall17/tree/master/DynamicProgramming)  |        |
 | Nov. 21  | T   | [Solving GE Models](https://github.com/jdebacker/CompEcon_Fall17/tree/master/DynamicProgramming)  |        |
 | Nov. 23  | Th  | No class, Thanksgiving                 |        |
-| Nov. 28  | T   | Simulation Methods                     |        |
-| Nov. 30  | Th  | Simulation Methods                     | |
+| Nov. 28  | T   | [Simulation Methods](https://github.com/jdebacker/CompEcon_Fall17/blob/master/SMM/)                     |        |
+| Nov. 30  | Th  | [Simulation Methods](https://github.com/jdebacker/CompEcon_Fall17/blob/master/SMM/)                     | |
 | Dec. 4   | M  | No class meeting                     | [PS # 8](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/PS8.pdf) |
 | Dec. 5   | T   | Simulation Methods                     |        |
 | Dec. 7   | Th  | Simulation Methods                     |        |
 |          |     |                                        |        |
-| Dec. 14  | Th  | No Final Exam - project due            | PS #9  |
+| Dec. 14  | Th  | No Final Exam - project due            | [PS #9](https://github.com/jdebacker/CompEcon_Fall17/blob/master/SMM/PS9.pdf)  |
 
 
 ## Helpful Links ##
