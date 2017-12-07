@@ -16,3 +16,4 @@ This module of the course introduces students to multiprocessing to do computati
 * GPU Processing:
 	* [Numba: High Performance Python with CUDA Acceleration](https://devblogs.nvidia.com/parallelforall/numba-python-cuda-acceleration/)
 	* [Getting Started with GPU Computing in Anaconda](https://www.anaconda.com/blog/developer-blog/getting-started-with-gpu-computing-in-anaconda/)
+* [Profiling Python code](https://docs.python.org/2/library/profile.html)
