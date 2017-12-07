@@ -8,3 +8,6 @@ This module of the course covers the theory and implementation of the simulated 
 * [Cooper and Ejarque (*Review of Economic Dyanmics*, 2003)](http://www.sciencedirect.com/science/article/pii/S1094202503000644?via%3Dihub)
 * [Strebulaev and Whited (*Foundation and Trends in Finance*, 2012)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2091854)
 * [Adda, Dustmann, Meghir, and Robin](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1132224)
+
+## Useful Links
+* [Statistics for Hackers](https://speakerdeck.com/jakevdp/statistics-for-hackers)

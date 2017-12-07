@@ -13,33 +13,40 @@
 
 ## Course description ##
 
-This course is designed to introduce PhD students to software applications and computational techniques to make them productive researchers. Students will be exposed to leading open source software packages (Python, R, Julia) and techniques for numerical computing and data analysis. The course will be taught through the application of these software packages and methods to economic research in applied microeconomics and macroeconomics.
+This course is designed to introduce PhD students to software applications and computational techniques to make them productive researchers. Students will be exposed to leading open source software packages (Python, R) and techniques for numerical computing and data analysis. The course will be taught through the application of these software packages and methods to economic research in applied microeconomics and quantitative macroeconomics.
 
 
 ## Course Objectives and Learning Outcomes ##
 
-* You will learn how to use software to increase your research productivity including:
+In this course students, through lecture and application, students will learn about:
+* Software to increase research productivity including:
 	* TeX
 	* git
 	* Python
 	* R
-	* Julia
-* You will learn to write your own estimators and use packages written by others for:
-	* Geneneralize Method of Moments Estimators
+* How to write custom estimation routines and use packages written by others for:
+	* Geneneralized method of moments estimators
 	* Maximum likelihood estimators
 	* Maximum score estimators
 	* Reduced form estimators such as regression discontinuity design
 	* Simulated method of moment estimators
-* You will learn computational methods to:
-	* Solve dynamic programming problems
+* Computational methods to:
+	* Optimize and find roots of functions
+	* Solve dynamic programming problems (disceret and continous choice)
+	* Solve general equilibrium, heterogeneous agent models
 	* Perform Monte Carlo simulations
 	* Bootstrap standard errors
-* You will learn how to use software tools to gather data from the web.
-* You will learn coding and collaboration techniques such as:
-	* Best practices for Python coding ([PEP 8](https://www.python.org/dev/peps/pep-0008/))
+	* Compute numerical derivatives
+	* Use just-in-time compilation for efficient computation
+	* Run computations in parallel using multiple processors
+* Methods to gather and handle data including:
+	* Costs and benefits of different data structures
+	* Using APIs
+	* Web scraping
+* Coding and collaboration techniques such as:
 	* Writing modular code with functions and objects
-	* Creating clear docstrings for functions
 	* Collaboration tools for writing code using [Git](https://git-scm.com/) and [GitHub.com](https://github.com/).
+	* Best practices for Python coding ([PEP 8](https://www.python.org/dev/peps/pep-0008/))
 
 
 ## Grades ##
@@ -66,8 +73,8 @@ Class Participation                |   10   |    10.0%   |
 |----------|-----|----------------------------------------|--------|
 | Aug. 24  | Th  | [Work Flow, Productivity Software](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Productivity)       |        |
 | Aug. 29  | T   | [Work Flow, Productivity Software](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Productivity)         |        |
-| Aug. 31  | Th  | [Python/OOP](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Python)                             | [PS #1](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Productivity/PS1.pdf)  |
-| Sept. 5  | T   | [Python/OOP](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Python)                             |        |
+| Aug. 31  | Th  | [Python/Object Oriented Programming](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Python)                             | [PS #1](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Productivity/PS1.pdf)  |
+| Sept. 5  | T   | [Python/Object Oriented Programming](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Python)                             |        |
 | Sept. 7  | Th  | [Functions, Optimizers, Root-Finders](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Functions)    |        |
 | Sept. 12 | T   | [Functions, Optimizers, Root-Finders](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Functions)     | [PS #2](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Python/PS2.pdf)  |
 | Sept. 14 | Th  | [Functions, Optimizers, Root-Finders](https://github.com/jdebacker/CompEcon_Fall17/tree/master/Functions)      |        |
@@ -94,8 +101,8 @@ Class Participation                |   10   |    10.0%   |
 | Nov. 28  | T   | [Simulation Methods](https://github.com/jdebacker/CompEcon_Fall17/blob/master/SMM/)                     |        |
 | Nov. 30  | Th  | [Simulation Methods](https://github.com/jdebacker/CompEcon_Fall17/blob/master/SMM/)                     | |
 | Dec. 4   | M  | No class meeting                     | [PS # 8](https://github.com/jdebacker/CompEcon_Fall17/blob/master/DynamicProgramming/PS8.pdf) |
-| Dec. 5   | T   | Simulation Methods                     |        |
-| Dec. 7   | Th  | Simulation Methods                     |        |
+| Dec. 5   | T   | [Discerete Choice Dynamic Programming](https://github.com/jdebacker/CompEcon_Fall17/tree/master/DynamicProgramming)                     |        |
+| Dec. 7   | Th  | [Parallel Processing](https://github.com/jdebacker/CompEcon_Fall17/blob/master/Multiprocessing)                    |        |
 |          |     |                                        |        |
 | Dec. 14  | Th  | No Final Exam - project due            | [PS #9](https://github.com/jdebacker/CompEcon_Fall17/blob/master/SMM/PS9.pdf)  |
 
